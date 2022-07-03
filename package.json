@@ -1,0 +1,14 @@
+{
+	"name": "ph_developer-portfolio",
+	"version": "1.0.0",
+	"description": "Following Module 4: Programming Hero (PH) Build a beautiful and professional portfolio website",
+	"main": "index.js",
+	"scripts": {
+		"start": "lite-server"
+	},
+	"author": "Programming Hero, foy4748",
+	"license": "ISC",
+	"devDependencies": {
+		"lite-server": "^2.6.1"
+	}
+}
