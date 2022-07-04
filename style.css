@@ -93,6 +93,9 @@ h2 {
 .cards {
   display: flex;
   justify-content: space-around;
+  background-image: url(./images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
 }
 
 .card {
@@ -105,4 +108,9 @@ h2 {
 
 .card1 {
   border-left: 0.5rem solid tomato;
+}
+
+
+footer{
+  text-align: center;
 }
